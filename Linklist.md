@@ -1,3 +1,5 @@
+链表环判断使用双指针.链表有环则末节点.next不会为空,且快指针在遍历的时候会和慢指针再次相遇
+
 ```java
 public class Solution {
     public boolean hasCycle(ListNode head) {
