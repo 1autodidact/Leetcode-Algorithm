@@ -1,3 +1,4 @@
+```java
 public class Solution {
     public boolean hasCycle(ListNode head) {
 		  if (head == null) {
@@ -17,4 +18,5 @@ public class Solution {
 		return false;
     }	
 }
+```
 ![image](https://github.com/1autodidact/Leetcode-Algorithm/blob/master/linklist.JPG)
